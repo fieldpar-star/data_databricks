@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "resources": [
+    {
+      "type": "job",
+      "name": "ingest_csv_to_delta",
+      "id": "745120312112858",
+      "created_at": "2026-05-08T04:38:24.243084+00:00",
+      "updated_at": "2026-05-08T04:38:24.243084+00:00"
+    },
+    {
+      "type": "schema",
+      "name": "bloomsbdcatalog.enr",
+      "id": "bloomsbdcatalog.enr",
+      "created_at": "2026-05-08T04:55:21.703703+00:00",
+      "updated_at": "2026-05-08T04:55:21.703703+00:00"
+    },
+    {
+      "type": "schema",
+      "name": "bloomsbdcatalog.cur",
+      "id": "bloomsbdcatalog.cur",
+      "created_at": "2026-05-08T05:06:23.782066+00:00",
+      "updated_at": "2026-05-08T05:06:23.782066+00:00"
+    }
+  ]
+}
